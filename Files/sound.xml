@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<MusicConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <master>1</master>
+  <menu>0.5</menu>
+  <game>0.09767217</game>
+</MusicConfig>
